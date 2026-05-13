@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Megi
+
+## Projects 
+
+### OpenGL Framework
+Graphics programming project using OpenGL.
+
+Repository:
+https://github.com/BUW-Grafische-Datenverarbeitung/openglframework-hkousar
+
+
 
 <!--
 **megidema/megidema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
