@@ -1,5 +1,3 @@
-## Hi, I'm Megi
-
 ## Projects 
 
 ### OpenGL Framework
