@@ -1,4 +1,4 @@
-# Hi, I'm Megi
+## Hi, I'm Megi
 
 ## Projects 
 
